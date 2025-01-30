@@ -1,0 +1,19 @@
+.titleBox {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.title {
+  font-size: 26px;
+  font-weight: bold;
+  color: #333;
+}
+.image {
+  margin-left: 10px;
+  font-size: 28px;
+  color: #007bff;
+}
+.text {
+  font-size: 18px;
+  color: #444;
+  line-height: 1.5;
+}
